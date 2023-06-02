@@ -1,0 +1,26 @@
+Sentiment Analysis Results:
+Comment 1 - Sentiment: positive
+Comment 2 - Sentiment: negative
+Comment 3 - Sentiment: negative
+Comment 4 - Sentiment: positive
+Comment 5 - Sentiment: negative
+Comment 6 - Sentiment: positive
+Comment 7 - Sentiment: positive
+Comment 8 - Sentiment: positive
+Comment 9 - Sentiment: positive
+Comment 10 - Sentiment: negative
+Comment 11 - Sentiment: positive
+Comment 12 - Sentiment: positive
+Comment 13 - Sentiment: positive
+Comment 14 - Sentiment: positive
+Comment 15 - Sentiment: positive
+Comment 16 - Sentiment: positive
+Comment 17 - Sentiment: positive
+Comment 18 - Sentiment: positive
+Comment 19 - Sentiment: positive
+Comment 20 - Sentiment: negative
+Comment 21 - Sentiment: positive
+Comment 22 - Sentiment: positive
+Comment 23 - Sentiment: negative
+Comment 24 - Sentiment: positive
+Comment 25 - Sentiment: negative
